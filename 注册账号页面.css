@@ -1,0 +1,51 @@
+form {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+form .text {
+    font-size: 24px;
+    text-align: center;
+
+}
+
+form input {
+    margin-top: 40px;
+    margin-left: 35px;
+    width: 200px;
+    height: 18px;
+    border-bottom: 1px solid blue;
+}
+
+form span {
+    margin-left: 40px;
+}
+
+form select {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+form a {
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+form button {
+    background-color: #0350A0;
+    width: 150px;
+    height: 40px;
+    border-radius: 6px;
+    color: white;
+    display: block;
+    margin: 10px auto;
+
+}
+
+.eyes {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
